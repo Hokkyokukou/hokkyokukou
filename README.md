@@ -4,6 +4,8 @@ Web Developer
 -----------------------
 
 * 🌍  I'm based in Italy
+
+<a href="http://www.github.com/Hokkyokukou"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hokkyokukou&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <!--
 **Hokkyokukou/hokkyokukou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
