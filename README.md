@@ -1,23 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monica
-==============================================================================================================================
-Web Developer
------------------------
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+**I'm Monica**  
+🌱 *A curious and motivated aspiring web developer.*
 
-* 🌍  I'm based in Italy
-* 🧠  I'm learning React
+---
 
-<a href="http://www.github.com/Hokkyokukou"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hokkyokukou&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<!--
-**Hokkyokukou/hokkyokukou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
+- 🌍 Based in **Italy**, learning and growing every day.  
+- 🧠 Currently exploring **React** to bring dynamic web applications to life.  
+- 💻 Enthusiast of **JavaScript** and its endless possibilities.  
+- 🌸 Lover of flowers 🌹 and beauty in all its forms.  
+- ✨ Inspired by creativity and the journey of learning.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m Learning 📘  
+- **React** for building dynamic UIs.  
+- **JavaScript ES6+**, focusing on writing clean and efficient code.  
+- **Responsive Design** to create websites that look great on any device.  
+
+---
+
+> *"Every line of code is a step towards growth."* 🚀  
+> *"Always be inspired."* 🥰  
