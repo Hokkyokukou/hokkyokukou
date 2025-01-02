@@ -19,6 +19,8 @@
 - **Responsive Design** to create websites that look great on any device.  
 
 ---
+### 🌟 Final Thoughts  
 
-> *"Every line of code is a step towards growth."* 🚀  
-> *"Always be inspired."* 🥰  
+💡 *"Every line of code is a step towards growth."*  
+✨ *"Stay curious, stay inspired, and keep coding!"* 🚀  
+
