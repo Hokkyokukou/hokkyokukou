@@ -19,8 +19,14 @@
 - **Responsive Design** to create websites that look great on any device.  
 
 ---
+
 ### 🌟 Final Thoughts  
 
 💡 *"Every line of code is a step towards growth."*  
 ✨ *"Stay curious, stay inspired, and keep coding!"* 🚀  
 
+---
+
+## 📈 **GitHub Stats**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hokkyokukou&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hokkyokukou&layout=compact&theme=radical
