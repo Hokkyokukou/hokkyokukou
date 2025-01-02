@@ -20,10 +20,8 @@
 
 ---
 
-### 🌟 Final Thoughts  
-
-💡 *"Every line of code is a step towards growth."*  
-✨ *"Stay curious, stay inspired, and keep coding!"* 🚀  
+### 💡 *"Every line of code is a step towards growth."*  
+### ✨ *"Stay curious, stay inspired, and keep coding!"* 🚀  
 
 ---
 
