@@ -1,5 +1,4 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-**I'm Monica**  
+# 🌸 Hello, I'm Monica!   
 🌱 *A curious and motivated aspiring web developer.*
 
 ---
@@ -25,6 +24,13 @@
 
 ---
 
+### 🔥 GitHub Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hokkyokukou&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
+
+---
+
 ## 📈 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hokkyokukou&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hokkyokukou&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hokkyokukou&layout=compact&theme=radical)
