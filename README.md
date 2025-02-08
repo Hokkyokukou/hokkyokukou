@@ -19,18 +19,11 @@
 
 ---
 
-### 💡 *"Every line of code is a step towards growth."*  
-### ✨ *"Stay curious, stay inspired, and keep coding!"* 🚀  
+### 💡 *"Every line of code is a step towards growth."* 💻🌱  
+### ✨ *"Stay curious, stay inspired, and keep coding!"* 🚀💡  
 
 ---
 
-### 🔥 GitHub Streak  
+### 🔥 My GitHub Streak – Keep the fire alive!  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hokkyokukou&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
-
----
-
-## 📈 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hokkyokukou&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hokkyokukou&layout=compact&theme=radical)
