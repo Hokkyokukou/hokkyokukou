@@ -26,4 +26,4 @@
 
 ### 🔥 My GitHub Streak – Keep the fire alive!  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hokkyokukou&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-seven-lac.vercel.app?user=Hokkyokukou&theme=material-palenight)](https://git.io/streak-stats)
