@@ -4,7 +4,7 @@ Learning and growing, one step at a time.
 Exploring the world of **JavaScript** and **React**, and building confidence through code and curiosity.
 
 ## 🌷 About Me
-- Based in Italy 🇮🇹  
+- Based in Italy 🇮🇹 
 - Passionate about simple, beautiful, accessible web design  
 - Lover of flowers 🌹, creativity, and meaningful technology
 
